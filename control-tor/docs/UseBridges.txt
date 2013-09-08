@@ -1,1 +1,0 @@
-Boolean: should we start all circuits with a bridge? 

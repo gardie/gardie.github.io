@@ -1,1 +1,0 @@
-Username for SOCKS5 authentication, if any 

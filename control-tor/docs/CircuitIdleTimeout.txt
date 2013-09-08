@@ -1,1 +1,0 @@
-Cull open clean circuits that were born at least this many seconds ago. 

@@ -1,2 +1,0 @@
-
-If true, run no matter what versions of Tor the directory recommends. 

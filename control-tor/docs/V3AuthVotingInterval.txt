@@ -1,1 +1,0 @@
-The length of time that we think a consensus should be fresh. 

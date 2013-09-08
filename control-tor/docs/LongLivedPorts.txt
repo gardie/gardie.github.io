@@ -1,2 +1,0 @@
-
-Application ports that require all nodes in circ to have sufficient uptime. 

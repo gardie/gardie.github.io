@@ -1,1 +1,0 @@
-List of configuration lines for client-side authorizations for hidden services 

@@ -1,2 +1,0 @@
-
-How often do we post each rendezvous service descriptor? Remember to publish them independently. 

@@ -1,2 +1,0 @@
-
-How many circuit CREATE requests do we allow to wait simultaneously before we start dropping them? 

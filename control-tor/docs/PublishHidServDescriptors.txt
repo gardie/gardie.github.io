@@ -1,1 +1,0 @@
-Boolean: do we publish hidden service descriptors to the HS auths? 

@@ -1,2 +1,0 @@
-
-How often do we fetch running-routers lists? 

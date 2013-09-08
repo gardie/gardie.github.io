@@ -1,2 +1,0 @@
-
-List of exit_redirect_t 

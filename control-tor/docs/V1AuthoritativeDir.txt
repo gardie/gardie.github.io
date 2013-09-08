@@ -1,1 +1,0 @@
-Boolean: is this an authoritative directory for version 1 directories? 

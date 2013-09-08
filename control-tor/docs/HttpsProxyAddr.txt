@@ -1,2 +1,0 @@
-
-Parsed IPv4 addr for https proxy, if any 

@@ -1,1 +1,0 @@
-Should advertise and sign consensuses with a legacy key, for key migration purposes? 

@@ -1,2 +1,0 @@
-
-Lists of exit policy components. 

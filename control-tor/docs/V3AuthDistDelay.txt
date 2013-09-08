@@ -1,1 +1,0 @@
-The length of time we think it will take to distribute signatures. 

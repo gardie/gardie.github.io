@@ -1,2 +1,0 @@
-
-New-style list of configuration lines for logs 

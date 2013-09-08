@@ -1,2 +1,0 @@
-
-How many bytes do we allow per accounting interval before hibernation? 0 for "never hibernate." 

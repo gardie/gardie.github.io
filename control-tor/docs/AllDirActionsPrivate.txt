@@ -1,1 +1,0 @@
-Should every directory action be sent through a Tor circuit? 

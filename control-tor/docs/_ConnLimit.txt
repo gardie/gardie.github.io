@@ -1,2 +1,0 @@
-
-Actual maximum number of simultaneous connections. 

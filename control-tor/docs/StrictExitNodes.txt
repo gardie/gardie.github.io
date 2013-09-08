@@ -1,2 +1,0 @@
-
-Boolean: When none of our ExitNodes are up, do we stop building circuits? 

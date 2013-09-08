@@ -1,1 +1,0 @@
-Boolean: should we outright refuse application connections that use socks4 or socks5-with-local-dns? 

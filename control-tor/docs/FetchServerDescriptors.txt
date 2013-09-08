@@ -1,1 +1,0 @@
-Do we fetch server descriptors as normal? 

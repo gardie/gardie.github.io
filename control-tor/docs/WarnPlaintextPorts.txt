@@ -1,1 +1,0 @@
-Related to RejectPlaintextPorts above, except this config option controls whether we warn (in the log and via a controller status event) every time a risky connection is attempted. 

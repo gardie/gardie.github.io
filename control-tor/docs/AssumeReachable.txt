@@ -1,1 +1,0 @@
-Whether to publish our descriptor regardless. 

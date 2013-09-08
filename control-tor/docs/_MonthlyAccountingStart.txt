@@ -1,2 +1,0 @@
-
-Deprecated: day of month when accounting interval starts 

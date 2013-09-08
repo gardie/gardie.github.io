@@ -1,2 +1,0 @@
-
-How long do we use a circuit before building a new one? 

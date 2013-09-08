@@ -1,2 +1,0 @@
-
-OR only: where to store long-term data. 

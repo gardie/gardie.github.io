@@ -1,2 +1,0 @@
-
-Name of group to run Tor as. 

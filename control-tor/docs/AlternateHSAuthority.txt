@@ -1,1 +1,0 @@
-If set, use these HS authorities and not the default ones. 

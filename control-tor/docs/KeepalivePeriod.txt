@@ -1,2 +1,0 @@
-
-How often do we send padding cells to keep connections alive? 

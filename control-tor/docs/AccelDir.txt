@@ -1,1 +1,0 @@
-Optional hardware acceleration engine search dir. 

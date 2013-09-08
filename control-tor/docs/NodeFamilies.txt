@@ -1,2 +1,0 @@
-
-List of config lines for node families 

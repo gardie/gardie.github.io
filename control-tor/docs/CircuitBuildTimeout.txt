@@ -1,1 +1,0 @@
-Cull non-open circuits that were born at least this many seconds ago. Used until adaptive algorithm learns a new value. 

@@ -1,1 +1,0 @@
-Boolean: should we never cache things to disk? Not used yet. 
